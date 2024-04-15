@@ -10,7 +10,7 @@
 Ankitsingh2611/Ankitsingh2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continui growing and developing my skills.</h2>
+<h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 ###
 
