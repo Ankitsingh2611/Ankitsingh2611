@@ -3,7 +3,7 @@
 
 - 👨‍💻 Full-Stack Developer.
 - 📫 How to reach me: [ankittchauhan937@gmail.com](ankittchauhan937@gmail.com)
-- 👀 I’m interested in Kava, Web Development, DBMS, SQL
+- 👀 I’m interested in Java, Web Development, DBMS, SQL
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ankitkrsinghportfolio.netlify.app/)! 💻❤️
 
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
