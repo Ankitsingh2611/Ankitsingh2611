@@ -130,11 +130,15 @@
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&show_icons=true&theme=dark&locale=en" alt="Ankit Singh" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ankit Singh" /></td>
+<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&show_icons=true&theme=dark&locale=en" alt="Ankit Singh" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" />
+    </td>
+<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ankit Singh" /></td> -->
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" /></td>
   </tr>
 </table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark" alt="Ankit Singh" /></p>
   </div>
+[![GitHub followers](https://img.shields.io/github/followers/Ankitsingh2611.svg?style=social&label=Follow)](https://github.com/Ankitsingh2611?tab=followers)
