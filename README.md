@@ -142,4 +142,4 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark" alt="Ankit Singh" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" /></p>
   </div>
-[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
+
