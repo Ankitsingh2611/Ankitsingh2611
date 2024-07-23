@@ -6,7 +6,6 @@
 - 👀 I’m interested in Java, Web Development, DBMS, SQL
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ankitkrsinghportfolio.netlify.app/)! 💻❤️
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F78E&width=435&lines=My+name+is+Ankit+Kumar+Singh" alt="Typing SVG" /></a>
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 <h3 align="left">📲 Connect with me:</h3>
