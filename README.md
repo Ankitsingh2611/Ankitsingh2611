@@ -189,9 +189,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
+
+
   <a href="https://www.youtube.com/@dennycarlos5786?sub_confirmation=1"></a>
   
-</details>
+
 
 
 
