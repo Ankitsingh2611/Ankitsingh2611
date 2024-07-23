@@ -64,7 +64,7 @@
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-      <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Anodejs"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Atailwind"><img alt="Tailwind" src="https://img.shields.io/badge/tailwind-777BB4.svg?logo=tailwind&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Abootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-777BB4.svg?logo=bootstrap&logoColor=white"></a>
