@@ -15,4 +15,7 @@ jobs:
     steps:
       - uses: Ankitsingh2611/github-readme-youtube-cards@main
         with:
-          playlist_id: PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3
+          channel_id: UCBnhXNru6eWtnjRneaaLefQ
+
+
+
