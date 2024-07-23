@@ -189,22 +189,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-
-
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary> 
-<!-- BEGIN YOUTUBE-CARDS -->
-  <a href="https://www.youtube.com/watch?v=oMwVo74-IsI"><img src="https://ankitkrsinghportfolio.netlify.app/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways"></a>
-[![Netflix Clone](https://ytcards.demolab.com/?id=oMwVo74-IsI&title=Netflix+Clone&lang=en&timestamp=1713244976&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Netflix Clone")](https://www.youtube.com/watch?v=oMwVo74-IsI)
-[![AnkitWordpress](https://ytcards.demolab.com/?id=LL8sz3bEVyI&title=AnkitWordpress&lang=en&timestamp=1713645780&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AnkitWordpress")](https://www.youtube.com/watch?v=LL8sz3bEVyI)
-[![CodeAnkit – Learn Coding](https://ytcards.demolab.com/?id=0lSkYXjpWwA&title=CodeAnkit+%E2%80%93+Learn+Coding&lang=en&timestamp=1713645844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CodeAnkit – Learn Coding")](https://www.youtube.com/watch?v=0lSkYXjpWwA)
-[![Webcam using PHP Laravel capture image & upload on postgresql](https://ytcards.demolab.com/?id=Zc6sjytxAug&title=Webcam+using+PHP+Laravel+capture+image+%26+upload+on+postgresql&lang=en&timestamp=1714674198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Webcam using PHP Laravel capture image & upload on postgresql")](https://www.youtube.com/watch?v=Zc6sjytxAug)
-[![Spotify Clone](https://ytcards.demolab.com/?id=ODxKDDkZT0s&title=Spotify+Clone&lang=en&timestamp=1715273609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spotify Clone")](https://www.youtube.com/watch?v=ODxKDDkZT0s)
-[![Hosted a tailwind css landing page](https://ytcards.demolab.com/?id=aY0VN8Y4Qdg&title=Hosted+a+tailwind+css+landing+page&lang=en&timestamp=1715274034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hosted a tailwind css landing page")](https://www.youtube.com/watch?v=aY0VN8Y4Qdg)
-<!-- END YOUTUBE-CARDS -->
-
-  
   <a href="https://www.youtube.com/@dennycarlos5786?sub_confirmation=1"></a>
   
 </details>
