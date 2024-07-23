@@ -40,8 +40,8 @@
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div> 
 
 <h3 align="left">🗄️ Databases:</h3>
