@@ -6,11 +6,14 @@
 - 👀 I’m interested in Java, Web Development, DBMS, SQL
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ankitkrsinghportfolio.netlify.app/)! 💻❤️
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F78E&width=435&lines=My+name+is+Ankit+Kumar+Singh" alt="Typing SVG" /></a>
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/ankit-singh-441459231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://www.youtube.com/@dennycarlos5786/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://x.com/theankitsingh26"><img alt="Twitter" src="https://img.shields.io/badge/twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:ankittchauhan937@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/ankitsingh.26?igsh=MWZucXNmMGtuNGppcQ%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/+yTO2tA6PtRAxNTU9"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
