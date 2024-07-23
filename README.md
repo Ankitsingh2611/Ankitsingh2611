@@ -59,7 +59,7 @@
   <p>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=%23F7DF1E"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/cpp-%23323330.svg?style=for-the-badge&logo=cpp&logoColor=%23F7DF1E"></a>
-      <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/c#-%23323330.svg?style=for-the-badge&logo=c@&logoColor=%23F7DF1E"></a>
+      <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/csharp-%23323330.svg?style=for-the-badge&logo=c@&logoColor=%23F7DF1E"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ac"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E"></a>
