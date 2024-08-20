@@ -204,6 +204,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" /></p>
   </div>
 
-<div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2611&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2611" /> </p>
+<div style="display: flex; align-items: center; justify-content: left; background-color: #f0f8ff; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://komarev.com/ghpvc/?username=ankitsingh2611&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2611" style="max-width: 100%; height: auto; border-radius: 5px;" />
 </div>
+
