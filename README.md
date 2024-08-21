@@ -30,6 +30,7 @@
 
 <br>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Aexpressjs"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Areact"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
