@@ -109,6 +109,17 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-0061A8?logo=git&logoColor=white"></a>
+     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="VMWare" src="https://img.shields.io/badge/VMware-607078?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="PUTTY" src="https://img.shields.io/badge/PuTTY-023160?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="NMAP" src="https://img.shields.io/badge/Nmap-4682B4?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="WINSCP" src="https://img.shields.io/badge/WinSCP-26B7E4?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Anydesk" src="https://img.shields.io/badge/AnyDesk-EF443B?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Belarc" src="https://img.shields.io/badge/Belarc%20Advisor-3978D7?logo=git&logoColor=white"></a>
   </p>
 </details>
 
