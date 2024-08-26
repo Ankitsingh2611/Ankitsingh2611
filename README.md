@@ -1,4 +1,3 @@
-![logo](https://github.com/Ankitsingh2611/Ankitsingh2611/blob/main/image_6483441.JPG)
 <h1 align="left">👋 Hi, I'm <a href="https://ankitkrsinghportfolio.netlify.app/" target="_blank"> Ankit Singh </a></h1>
 <p align="left">A passionate Full Stack Developer with a strong foundation in Computer Science and a keen to learn new tech.</p>
 
@@ -6,7 +5,7 @@
 - 📫 How to reach me: [ankittchauhan937@gmail.com](ankittchauhan937@gmail.com)
 - 👀 I’m interested in Java, Web Development, DBMS, SQL
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ankitkrsinghportfolio.netlify.app/)! 💻❤️
-
+![logo](https://github.com/Ankitsingh2611/Ankitsingh2611/blob/main/image_6483441.JPG)
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 <h3 align="left">📲 Connect with me:</h3>
