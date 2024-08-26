@@ -1,3 +1,4 @@
+![logo](https://github.com/Ankitsingh2611/Ankitsingh2611/blob/main/image_6483441.JPG)
 <h1 align="left">👋 Hi, I'm <a href="https://ankitkrsinghportfolio.netlify.app/" target="_blank"> Ankit Singh </a></h1>
 <p align="left">A passionate Full Stack Developer with a strong foundation in Computer Science and a keen to learn new tech.</p>
 
