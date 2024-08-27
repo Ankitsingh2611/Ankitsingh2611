@@ -205,12 +205,6 @@
 
 <h3>🎥 Checkout my Youtube Channel</h3>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Propose  me](https://ytcards.demolab.com/?id=izgnLxouhFs&title=Propose++me&lang=en&timestamp=1721239717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Propose  me")](https://www.youtube.com/watch?v=izgnLxouhFs)
-[![Birthday  Wish](https://ytcards.demolab.com/?id=DVhoN-GKey4&title=Birthday++Wish&lang=en&timestamp=1721239666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Birthday  Wish")](https://www.youtube.com/watch?v=DVhoN-GKey4)
-[![HouseHold Helpers](https://ytcards.demolab.com/?id=BpaApjhIZh8&title=HouseHold+Helpers&lang=en&timestamp=1720668649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HouseHold Helpers")](https://www.youtube.com/watch?v=BpaApjhIZh8)
-[![Friend's Painting Gallery](https://ytcards.demolab.com/?id=XoVu8DxrwAA&title=Friend%27s+Painting+Gallery&lang=en&timestamp=1720616563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Friend's Painting Gallery")](https://www.youtube.com/watch?v=XoVu8DxrwAA)
-[![My Portfolio](https://ytcards.demolab.com/?id=3gWbEBvk6i0&title=My+Portfolio&lang=en&timestamp=1720616359&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Portfolio")](https://www.youtube.com/watch?v=3gWbEBvk6i0)
-[![Colour Art Sale Cart Payment](https://ytcards.demolab.com/?id=83NUaCl84zo&title=Colour+Art+Sale+Cart+Payment&lang=en&timestamp=1719035207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Colour Art Sale Cart Payment")](https://www.youtube.com/watch?v=83NUaCl84zo)
 <!-- END YOUTUBE-CARDS -->
 
 
