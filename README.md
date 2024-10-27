@@ -11,8 +11,8 @@
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
-<img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="40px"></img>
-<img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="40px"></img>
+<img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="50px"></img>
+<img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="50px"></img>
 
 
 <h3 align="left">📲 Connect with me:</h3>
