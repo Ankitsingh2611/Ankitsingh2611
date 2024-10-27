@@ -10,6 +10,8 @@
 
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/ankit-singh-441459231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
