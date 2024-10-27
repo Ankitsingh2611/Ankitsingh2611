@@ -10,7 +10,7 @@
 
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px"></img>
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -18,6 +18,7 @@
      <a href="https://www.youtube.com/@dennycarlos5786/"><img alt="Youtube" src="https://img.shields.io/badge/youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    <a href="https://x.com/theankitsingh26"><img alt="Twitter" src="https://img.shields.io/badge/twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:ankittchauhan937@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ankitsingh2611/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-%23ED8B00?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
    <a href="https://www.instagram.com/ankitsingh.26?igsh=MWZucXNmMGtuNGppcQ%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/+yTO2tA6PtRAxNTU9"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  
@@ -34,7 +35,7 @@
 
 <br>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/laravel-FF1B2D?style=for-the-badge&logo=laravel&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Aexpressjs"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <a href="https://github.com/search?q=user%3AAnkitsingh2611+language%3Areact"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
