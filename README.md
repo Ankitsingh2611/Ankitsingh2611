@@ -12,8 +12,8 @@
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>&nbsp;&nbsp;
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-java-azure.svg" width="60px"></img>&nbsp;&nbsp;
-<img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="60px"></img>&nbsp;&nbsp;
-<img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="60px"></img>
+<img src="https://images.credly.com/size/60x60/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="60px"></img>&nbsp;&nbsp;
+<img src="https://images.credly.com/size/60x60/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="60px"></img>
 
 
 
