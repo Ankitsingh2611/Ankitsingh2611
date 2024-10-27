@@ -10,7 +10,7 @@
 
 <h2 align="left">Hi 👋! My name is Ankit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
