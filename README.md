@@ -234,17 +234,7 @@
 <!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ankit Singh" /></td> -->
      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" /></td>
   </tr>
-</table>
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" />
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" />
-    </td>
-  </tr>
-</table>
+
 
 <!--
 <div align="center">
