@@ -257,7 +257,7 @@
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
-    <td>![LeetCode Stats](https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&ext=heatmap)
+    <td><img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&ext=heatmap" />
     </td>
   </tr>
 </table>
