@@ -251,7 +251,7 @@
 </table> -->
 <table>
   <tr>
-    <td width="50%">
+    <td width="55%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
     <td width="50%">
