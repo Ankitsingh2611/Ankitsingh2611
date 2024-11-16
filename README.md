@@ -265,13 +265,9 @@
 <div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2611&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2611" /> </p>
 </div>
-
 <!--
 <a class="github-button" href="https://github.com/ankitsingh2611" data-size="large" data-show-count="true" aria-label="Follow @ankitsingh2611 on GitHub">Follow @ankitsingh2611</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>   -->
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&ext=heatmap)  -->
-
-
-
