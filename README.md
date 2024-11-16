@@ -254,7 +254,7 @@
     <td width="55%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
-    <td width="50%">
+    <td width="45%">
       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />
     </td>
   </tr>
