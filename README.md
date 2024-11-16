@@ -251,14 +251,15 @@
 </table> -->
 <table>
   <tr>
-    <td style="width: 60%; text-align: center;">
+    <td width="60%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
-    <td style="width: 40%; text-align: center;">
+    <td width="40%">
       <img src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />
     </td>
   </tr>
 </table>
+
 
 
 <div>
