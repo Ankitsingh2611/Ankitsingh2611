@@ -241,14 +241,25 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark" alt="Ankit Singh" /></p> -->
 <!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" /></p>
   </div> -->
-  <table>
+<!--  <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
     <td><img src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" />
     </td>
   </tr>
+</table> -->
+<table>
+  <tr>
+    <td style="width: 60%; text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
+    </td>
+    <td style="width: 40%; text-align: center;">
+      <img src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />
+    </td>
+  </tr>
 </table>
+
 
 <div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2611&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2611" /> </p>
