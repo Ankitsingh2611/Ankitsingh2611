@@ -229,10 +229,10 @@
 <table>
   <tr>
 <!--     <td><img src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&show_icons=true&theme=dark&locale=en" alt="Ankit Singh" /></td> -->
-    <td width="55%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" />
+    <td width="60%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsingh2611&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" />
     </td>
 <!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ankit Singh" /></td> -->
-     <td width="45%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" /></td>
+     <td width="40%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" /></td>
   </tr>
 
 
@@ -251,10 +251,10 @@
 </table> -->
 <table>
   <tr>
-    <td width="55%">
+    <td width="50%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
-    <td width="45%">
+    <td width="50%">
       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />
     </td>
   </tr>
