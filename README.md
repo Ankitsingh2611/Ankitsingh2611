@@ -235,11 +235,19 @@
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2611&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Singh" /></td>
   </tr>
 </table>
-
+<!--
 <div align="center">
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark" alt="Ankit Singh" /></p> -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" /></p>
-  </div>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" /></p>
+  </div> -->
+  <table>
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
+    </td>
+    <td><img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" />
+    </td>
+  </tr>
+</table>
 
 <div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2611&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2611" /> </p>
@@ -253,11 +261,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&ext=heatmap)  -->
 
 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
-    </td>
-    <td><img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" />
-    </td>
-  </tr>
-</table>
+
