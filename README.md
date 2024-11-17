@@ -251,12 +251,12 @@
 </table> -->
 <table>
   <tr>
-    <td width="55%">
+    <td width="60%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&" alt="Ankit Singh" />
     </td>
-    <td width="45%">
+    <td width="40%">
 <!--       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />  -->
-      <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Nunito&ext=heatmap" alt="LeetCard" /> 
+      <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto&ext=heatmap" alt="LeetCard" /> 
     </td>
   </tr>
 </table>
