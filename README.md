@@ -215,8 +215,6 @@
 </div>
 </br>
 <br>
-<br>
-</br>
 
 <h3 align="left">🎥 Checkout my Youtube Channel</h3>
 
