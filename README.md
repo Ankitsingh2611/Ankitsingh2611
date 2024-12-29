@@ -268,7 +268,7 @@
     </td>
     <td width="40%">
 <!--       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />  -->
-      <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=catppuccinMocha&font=Roboto&ext=heatmap" alt="LeetCard" /> 
+      <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&font=Roboto&ext=heatmap" alt="LeetCard" /> 
     </td>
   </tr>
 </table>
