@@ -12,7 +12,7 @@
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>&nbsp;&nbsp;
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px"></img>&nbsp;&nbsp;
-<img src="https://assets.leetcode.com/static_assets/marketing/2025-50-new.gif" width="60px"></img>&nbsp;&nbsp;
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="60px"></img>&nbsp;&nbsp;
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-java-azure.svg" width="55px"></img>&nbsp;&nbsp;
 <img src="https://images.credly.com/size/50x50/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="55px"></img>&nbsp;&nbsp;
 <img src="https://images.credly.com/size/50x50/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="55px"></img>
