@@ -264,12 +264,9 @@
 </table> -->
 <table>
   <tr>
-<!--     <td width="60%">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" alt="Ankit Singh" />
-    </td> -->
     <td width="60%">
-  <img align="center" src="https://streak-stats.demolab.com?user=ankitsingh2611&theme=dark&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" alt="Ankit Singh" />
-</td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2611&theme=dark&background=0,000000,130F40&ring=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" alt="Ankit Singh" />
+    </td>
        <td width="40%">
 <!--       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=light&font=Roboto" alt="LeetCard" />  -->
       <img align="center" src="https://leetcard.jacoblin.cool/ankitsingh2611?theme=dark&font=Roboto&ext=heatmap" alt="LeetCard" /> 
